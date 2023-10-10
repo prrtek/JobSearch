@@ -39,18 +39,4 @@ A React Native application to assist users in finding their ideal job. This app 
 3. Run `npm install` to install dependencies.
 4. Start the app with `expo start`.
 
-## Usage
 
-```bash
-expo start
-```
-
-Tech Stack
-React Native with Expo
-Axios for API calls
-Integrated with RapidAPI Job Search
-Contributing
-Feel free to fork the project, create a feature branch, and submit a PR.
-
-License
-MIT License. See LICENSE.md for details.
